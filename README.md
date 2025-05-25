@@ -26,7 +26,7 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-👉 [Play Now](https://your-username.github.io/guess-the-number-game/)
+👉 [Play The Game Here](https://iamsyedbilal.github.io/guess-random-number-game/)
 
 ---
 
